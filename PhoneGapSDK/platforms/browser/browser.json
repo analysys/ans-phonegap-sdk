@@ -1,0 +1,32 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.analysys.PhoneGapSDK"
+    },
+    "AnalysysPlugin": {
+      "PACKAGE_NAME": "com.analysys.PhoneGapSDK"
+    }
+  },
+  "dependent_plugins": {},
+  "modules": [
+    {
+      "file": "plugins/AnalysysPlugin/www/AnalysysPlugin.js",
+      "id": "AnalysysPlugin.AnalysysAgent",
+      "pluginId": "AnalysysPlugin",
+      "clobbers": [
+        "AnalysysAgent"
+      ]
+    }
+  ],
+  "plugin_metadata": {
+    "cordova-plugin-whitelist": "1.3.4",
+    "AnalysysPlugin": "1.0.0"
+  }
+}
