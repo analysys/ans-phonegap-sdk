@@ -15,7 +15,7 @@ This is the official phonegap SDK for Analysys.
 微信号：nlfxwz
 钉钉群：30099866
 邮箱：nielifeng@analysys.com.cn
-禁止一切基于易观方舟 wechat 开源 SDK 的所有商业活动！
+禁止一切基于易观方舟  开源 SDK 的所有商业活动！
 
 ## License
 
