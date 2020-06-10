@@ -6,11 +6,11 @@
 This is the official phonegap SDK for Analysys.
 
 
-##版本升级记录
+## 版本升级记录
 
 请参见 Release及版本升级记录
 
-##讨论
+## 讨论
 
 微信号：nlfxwz
 钉钉群：30099866
